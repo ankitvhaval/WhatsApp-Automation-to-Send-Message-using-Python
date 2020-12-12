@@ -10,13 +10,13 @@ This command will download the pywhatkit module. It will take some time as it wi
 
 mport the library using the following command.
 
-import pywhatkit
+<b>import pywhatkit</b>
 
-This will open web.whatsapp.com at 14:59:40 and message will be sent at exactly 15:00:00
+This code will open web.whatsapp.com at 14:59:40 and message will be sent at exactly 15:00:00
 
-pywhatkit.sendwhatmsg("+91**********","This is a message",15,00)
+<b> pywhatkit.sendwhatmsg("+91**********","This is a message",15,00) </b>
 
 
-Code 
-import pywhatkit
-pywhatkit.sendwhatmsg("+91**********","This is a message",19,55)
+
+<b> import pywhatkit
+pywhatkit.sendwhatmsg("+91**********","This is a message",19,55) </b>
